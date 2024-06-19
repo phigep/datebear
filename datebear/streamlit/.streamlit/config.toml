@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor = "#00AEEF"  # Helles Blau für primäre Elemente
+backgroundColor = "#FFFFFF"  # Weißer Hintergrund
+secondaryBackgroundColor = "#F2F2F2"  # Hellgrau für sekundäre Hintergrundelemente
+textColor = "#333333"  # Dunkles Grau für Text
+font = "sans serif"  # Schriftart (optional)
